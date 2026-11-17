@@ -12,7 +12,7 @@ El proyecto integra tres fuentes de seguimiento del Plan Distrital de Desarrollo
 El anteproyecto está en `Ante-proyecto-final.pdf`.
 
 ## Qué leer primero
-
+ 
 | Documento | Para qué |
 |---|---|
 | [docs/RESULTADOS.md](docs/RESULTADOS.md) | Qué se encontró en eficiencia, barreras y modelo predictivo |
